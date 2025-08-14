@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukssd&label=Profile%20views&color=0e75b6&style=flat" alt="lukssd" /> </p>
 
-- 🔭 I’m currently working on [Deu Pet](https://github.com/luksSD/Deu-Pet_src-code)
+- 🔭 I’m currently working on [Deu Pet]([https://github.com/luksSD/0e](https://github.com/luksSD/devclientes))
 
 - 👨‍💻 All of my projects are available at [https://github.com/luksSD](https://github.com/luksSD)
 
-- 📫 How to reach me **lucas.sd92@gmail.com**
+- 📫 How to reach me **lucas.sd94@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/ls-dias](www.linkedin.com/in/ls-dias)
 
