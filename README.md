@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukssd&label=Profile%20views&color=0e75b6&style=flat" alt="lukssd" /> </p>
 
-- 🔭 I’m currently working on [Deu Pet]([https://github.com/luksSD/0e](https://github.com/luksSD/devclientes))
+- 🔭 I’m currently working on [devclientes][https://github.com/luksSD/devclientes](https://github.com/luksSD/devclientes)
 
 - 👨‍💻 All of my projects are available at [https://github.com/luksSD](https://github.com/luksSD)
 
